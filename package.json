@@ -1,0 +1,16 @@
+{
+  "name": "200iq-leak-bot",
+  "version": "1.0.0",
+  "main": "fn_leak_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "rss-parser": "^3.13.0"
+  },
+  "description": ""
+}
